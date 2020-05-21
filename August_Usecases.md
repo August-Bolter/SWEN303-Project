@@ -40,6 +40,7 @@ Didn't include choosing course (think it is too small), also didn't include give
 *  Creating questions/quiz (included in add verified/unverified content)
 *  Answering questions (included in study topic)
 *  Editing/Deletng questions (same as edit/delete content)
+*  Create Quiz
 *  Take Quiz
 
 **Staff only**
@@ -54,4 +55,5 @@ Didn't include choosing course (think it is too small), also didn't include give
 
 Note:
 Main conflict I see between our systems is Daniel and Justina system seems to have a different method for creating questions/quizzes then my system and ahad and george system. They use a verification system and have verified/unverified content whereas my system and ahad and george system does not make this distinction. We can't have both so we'd have to pick one.
+Also not sure if we assigning lecturers to the create, answer, edit and delete question tasks and the creating/taking quiz tasks.
 
