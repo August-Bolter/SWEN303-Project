@@ -67,10 +67,10 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 # Part 2: Personas
 Persona order of importance: Sally Robertson, Ross Gleeson, Makayla Ivanova, Liam Rolleston
-* [Sally Robertson](https://gitlab.ecs.vuw.ac.nz/kohjust/swen303-assignment-1/-/blob/master/Resources/sally-robertson.pdf)
-* [Ross Gleeson](https://gitlab.ecs.vuw.ac.nz/kohjust/swen303-assignment-1/-/blob/master/Resources/ross-gleeson.pdf)
-* [Makayla Ivanova](https://gitlab.ecs.vuw.ac.nz/kohjust/swen303-assignment-1/-/blob/master/Resources/makayla.pdf)
-* [Liam Rolleston](https://gitlab.ecs.vuw.ac.nz/kohjust/swen303-assignment-1/-/blob/master/Resources/liam-rollestion.pdf)
+* [Sally Robertson](https://gitlab.ecs.vuw.ac.nz/rahmanahad/swen303-project/-/blob/master/Resources/sally-robertson.pdf)
+* [Ross Gleeson](https://gitlab.ecs.vuw.ac.nz/rahmanahad/swen303-project/-/blob/master/Resources/ross-gleeson.pdf)
+* [Makayla Ivanova](https://gitlab.ecs.vuw.ac.nz/rahmanahad/swen303-project/-/blob/master/Resources/makayla.pdf)
+* [Liam Rolleston](https://gitlab.ecs.vuw.ac.nz/rahmanahad/swen303-project/-/blob/master/Resources/liam-rollestion.pdf)
 
 ### Model Overview:  
 
