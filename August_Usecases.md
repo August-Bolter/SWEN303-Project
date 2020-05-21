@@ -25,7 +25,7 @@ Again not sure what personas are assigned to each use-case.
 
 Didn't include choosing course (think it is too small), also didn't include give feedback (non essential feature)
 
-### Mine
+### August
 
 *  Creating a question (Students)
 *  Answering and Rating questions (Students) - could probably just be shortened to Answering questions (since rating a question is part of answering it)
