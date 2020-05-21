@@ -1,7 +1,9 @@
 ## Ahad and George:
-1. 
-
-
+1. Create / answer questions
+2. View Questions
+3. Create accoutns
+4. Create repo / modify
+5. All the other smaller tasks like logging in etc. 
 
 ## Justina and Daniel
 1. Do quiz
