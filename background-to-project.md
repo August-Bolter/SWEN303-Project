@@ -3,7 +3,9 @@
 Background to the project. This should be very similar/identical to at least one of the previous projects background. It could be updated if you want but does not need to be.
 
 ### bullet points to discuss:
-- what is the main purpose of this app? To learn independantly or together? --> bjectives of peerwise
+- what is the main purpose of this app? To learn independently or together? --> bjectives of peerwise
+- 
+- more student focussed because 
 
 ### Actual content:
 
@@ -15,7 +17,7 @@ Peerwise has received a lot of positive user feedback, specifically relating to 
 Main Objectives of Peerwise: 
 1. Enable students ot clarify their understanding and support their learning
 2. Engage students with course content during trimesters
-3. Students are able to learn by independantly
+3. Students are able to learn by independently
 
 However, keeping in mind the objectives listed above, there are also issues which we have found with the Peerwise application. The top three issues have been listed below: 
 1. The app is boring and outdated - the atmosphere that it maintains is incredibly boring
