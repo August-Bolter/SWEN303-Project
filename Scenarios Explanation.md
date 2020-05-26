@@ -4,38 +4,47 @@ By August
 Scenarios. With a description of how the scenarios where merged and decided upon.
 
 1. Registering
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the registering process for instructors and students
 
 2. Create Course
+
 -Personas Involved: Sarah
 This use-case describes the process of an instructor creating a course which students can then join.
 
 3. Create Question/Quiz
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the process of a student or instructor creating a question/quizzes with the relevant fields
 
 4. Answer Question/Quiz
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how users answer questions/quizzes on PeerWise
 
 5. Login
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the login process
 
 6. Modify Question/Quiz
+
 -Personas Involved: Sarah
 This use-case describes editing an existing question/quiz
 
 7. Edit Course
+
 -Personas Involved: Sarah
 This use-case describes how instructors edit courses (that they have made)
 
 8. View Question/Quiz
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how a question/quiz is loaded for instructors/students to view
 
 9. View leaderboards (with badges)
+
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how the leaderboards/badges are displayed for instructors/students to view
 
@@ -58,11 +67,19 @@ use-cases from highest average ranking to lowest average ranking. How I calculat
 
 **Ranking calculations:**
 Create Question/Quiz (August: (1 - (3/14)) (78.6%), Ahad and George (1 - (4/7)) (42.86%), Justina and Daniel (1 - (1/5)) (80%) Average 67.2%)
+
 Answer Question/Quiz (August: (1- (4/14)) (71.4%), Ahad and George (1 - (5/7)) (28.6%), Justina and Daniel (1 - (0/5)) (100%), Average 66.7%)
+
 View Question/Quizzes (August: N/A, Ahad and George (1 - (6/7)) (14.29%), Justina and Daniel N/A, Average 14.29%)
+
 Registering (August: (1 - (3/14)) (78.6%), Ahad and George (1 - (0/7)) (100%), Justina and Daniel N/A, Average 89.3%)
+
 Login (August: N/A, Ahad and George (1 - (1/7)) (85.72%), Justina and Daniel (1 - (4/5)) (20%), Average 52.86%)
+
 View leaderboards (with badges) (August: (1 - (14/14)) (0%), Ahad and George N/A, Justina and Daniel N/A, Average 0%)
+
 Create Course (August: (1 - (2/14)) (85.7%), Ahad and George (1 - (2/7)) (71.44%), Justina and Daniel N/A, Average 78.57%)
+
 Edit Course (August: N/A, Ahad and Geroge (1 - (3/7)) (42.85%), Justina and Daniel N/A, Average 42.85%)
+
 Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justina and Daniel (1 - (3/5)) (40%), Average 48.6%)
