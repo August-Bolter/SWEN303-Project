@@ -1,4 +1,4 @@
-##### Scenarios/Use-cases (ranked from most important to least important)
+### Scenarios/Use-cases (ranked from most important to least important)
 By August
 
 Scenarios. With a description of how the scenarios where merged and decided upon.
@@ -39,7 +39,15 @@ This use-case describes how a question/quiz is loaded for instructors/students t
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how the leaderboards/badges are displayed for instructors/students to view
 
-### Merging our use-cases
+##### How we merged our use-cases
+
+**Merging personas assigned to use-cases**
+
+
+**Merging Use-case rankings**
+
+
+
 
 Ranking calculations:
 Create Question/Quiz (August: 3/14 (78.6%), Ahad and George 4/7 (42.86%), Average 55.4%)
