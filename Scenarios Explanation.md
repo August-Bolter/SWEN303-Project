@@ -39,7 +39,7 @@ This use-case describes how a question/quiz is loaded for instructors/students t
 -Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how the leaderboards/badges are displayed for instructors/students to view
 
-##### How we merged our use-cases
+**##### How we merged our use-cases**
 
 **Merging personas assigned to use-cases**
 
