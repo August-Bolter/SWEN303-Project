@@ -1,51 +1,40 @@
 ### Scenarios/Use-cases (ranked from most important to least important)
 By August
 
-Scenarios. With a description of how the scenarios where merged and decided upon.
+1. Registering (Personas Involved: Sally, Liam, Sarah and Veronica)
 
-1. Registering
-
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the registering process for instructors and students
 
-2. Create Course
+2. Create Course (Personas Involved: Sarah)
 
--Personas Involved: Sarah
 This use-case describes the process of an instructor creating a course which students can then join.
 
-3. Create Question/Quiz
+3. Create Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the process of a student or instructor creating a question/quizzes with the relevant fields
 
-4. Answer Question/Quiz
+4. Answer Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how users answer questions/quizzes on PeerWise
 
-5. Login
+5. Login (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes the login process
 
-6. Modify Question/Quiz
+6. Modify Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sarah
 This use-case describes editing an existing question/quiz
 
-7. Edit Course
+7. Edit Course (Personas Involved: Sarah)
 
--Personas Involved: Sarah
 This use-case describes how instructors edit courses (that they have made)
 
-8. View Question/Quiz
+8. View Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how a question/quiz is loaded for instructors/students to view
 
-9. View leaderboards (with badges)
+9. View leaderboards (with badges) (Personas Involved: Sally, Liam, Sarah and Veronica)
 
--Personas Involved: Sally, Liam, Sarah and Veronica
 This use-case describes how the leaderboards/badges are displayed for instructors/students to view
 
 ##### How we merged our use-cases
