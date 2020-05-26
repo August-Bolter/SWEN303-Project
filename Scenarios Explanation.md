@@ -5,11 +5,11 @@ By August
 
 This use-case describes the process of an instructor creating a course which students can then join.
 
-2. Create Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+2. Create Question/Quiz (Personas Involved: Sally, Liam and Veronica)
 
 This use-case describes the process of a student or instructor creating a question/quizzes with the relevant fields
 
-3. Answer Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+3. Answer Question/Quiz (Personas Involved: Sally, Liam and Veronica)
 
 This use-case describes how users answer questions/quizzes on PeerWise
 
@@ -17,7 +17,7 @@ This use-case describes how users answer questions/quizzes on PeerWise
 
 This use-case describes the login process
 
-5. Modify Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+5. Modify Question/Quiz (Personas Involved: Sally, Liam and Veronica)
 
 This use-case describes editing an existing question/quiz
 
@@ -25,7 +25,7 @@ This use-case describes editing an existing question/quiz
 
 This use-case describes how instructors edit courses (that they have made)
 
-7. View Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+7. View Question/Quiz (Personas Involved: Sally, Liam and Veronica)
 
 This use-case describes how a question/quiz is loaded for instructors/students to view
 
@@ -42,7 +42,7 @@ document).
 
 Merging personas assigned to use-cases:
 After determining our final use-cases we had to merge the roles assigned for these use-cases since we had different roles for the same use-case. For 
-example, I assigned only students to create, edit and view questions but Ahad and George also assigned instructors (lecturers) to this. We discussed and
+example, I assigned only students to create, edit and view questions/quizzes but Justina and Daniel also assigned instructors (lecturers) to this. We discussed and
 resolved every role conflict our use-cases had resulting in a final list of use-cases with personas/roles associated with each one.
 
 Merging use-case rankings:
