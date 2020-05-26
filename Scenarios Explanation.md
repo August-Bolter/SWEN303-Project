@@ -55,6 +55,7 @@ most important use-cases I obtained the ranking of them from our assignment docu
 use-cases from highest average ranking to lowest average ranking. How I calculated the rankings can be seen below
 
 **Ranking calculations:**
+
 Create Question/Quiz (August: (1 - (3/14)) (78.6%), Ahad and George (1 - (4/7)) (42.86%), Justina and Daniel (1 - (1/5)) (80%) Average 67.2%)
 
 Answer Question/Quiz (August: (1- (4/14)) (71.4%), Ahad and George (1 - (5/7)) (28.6%), Justina and Daniel (1 - (0/5)) (100%), Average 66.7%)
