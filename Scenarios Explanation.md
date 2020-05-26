@@ -1,39 +1,35 @@
 ### Scenarios/Use-cases (ranked from most important to least important)
 By August
 
-1. Registering (Personas Involved: Sally, Liam, Sarah and Veronica)
-
-This use-case describes the registering process for instructors and students
-
-2. Create Course (Personas Involved: Sarah)
+1. Create Course (Personas Involved: Sarah)
 
 This use-case describes the process of an instructor creating a course which students can then join.
 
-3. Create Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+2. Create Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes the process of a student or instructor creating a question/quizzes with the relevant fields
 
-4. Answer Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+3. Answer Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes how users answer questions/quizzes on PeerWise
 
-5. Login (Personas Involved: Sally, Liam, Sarah and Veronica)
+4. Login (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes the login process
 
-6. Modify Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+5. Modify Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes editing an existing question/quiz
 
-7. Edit Course (Personas Involved: Sarah)
+6. Edit Course (Personas Involved: Sarah)
 
 This use-case describes how instructors edit courses (that they have made)
 
-8. View Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
+7. View Question/Quiz (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes how a question/quiz is loaded for instructors/students to view
 
-9. View leaderboards (with badges) (Personas Involved: Sally, Liam, Sarah and Veronica)
+8. View leaderboards (with badges) (Personas Involved: Sally, Liam, Sarah and Veronica)
 
 This use-case describes how the leaderboards/badges are displayed for instructors/students to view
 
@@ -61,8 +57,6 @@ Create Question/Quiz (August: (1 - (3/14)) (78.6%), Ahad and George (1 - (4/7)) 
 Answer Question/Quiz (August: (1- (4/14)) (71.4%), Ahad and George (1 - (5/7)) (28.6%), Justina and Daniel (1 - (0/5)) (100%), Average 66.7%)
 
 View Question/Quizzes (August: N/A, Ahad and George (1 - (6/7)) (14.29%), Justina and Daniel N/A, Average 14.29%)
-
-Registering (August: (1 - (3/14)) (78.6%), Ahad and George (1 - (0/7)) (100%), Justina and Daniel N/A, Average 89.3%)
 
 Login (August: N/A, Ahad and George (1 - (1/7)) (85.72%), Justina and Daniel (1 - (4/5)) (20%), Average 52.86%)
 
