@@ -31,9 +31,15 @@ These services are similar to PeerWise because each one is catered for students 
 These services also follow a minimalist design, reducing the amount of text shown on the screen to make sure the user is not overwhelmed with information. And each given text is isolated from other nearby text via a border or container which helps the user to take the information in at a good pace. This is shown in Kahoot’s home page after you login. These services also are more preferable to PeerWise in terms of creating a question or quiz. Take Wooclap for example, their way of creating questions and quizzes gives the user more freedom to customize questions and quizzes since they can have more multiple choice answers than PeerWise which only has 5 at a maximum. Wooclap, unlike PeerWise, allows questions to be in different formats such as polls, open questions, fill in the blank questions etc. These formats are presented in a drop-down list making it convenient for the user to change the format of their question.
 
 #### Business Objectives
-PeerWise is a tool instructors (secondary school teachers or university course coordinators) use to set up courses which students can join. Students can then create questions which other students can answer. Additionally, students can rate questions once they have answered them and can filter questions by their topic. They can also start quizzes which are an assortment of questions they have already answered. All these features contribute to PeerWise’s purpose which is to encourage student collaborative learning to ensure that the students have a deeper understanding of the course material.
+PeerWise is a tool instructors (secondary school teachers or university course coordinators) use to set up courses which students can join. Students can then create questions which other students can answer. Additionally, students can rate questions once they have answered them and can filter questions by their topic. They can also start quizzes which are an assortment of questions they have already answered. All these features contribute to PeerWise’s purpose which is to encourage student collaborative learning to ensure that the students have a deeper understanding of the course material
+
 <br>
-The problem with PeerWise is that it has an outdated and inconvenient interface. This is shown by the registration process which has a page for each registration step. The login process is also inefficient as you have to enter in your school/institution before being able to log in. Visually PeerWise also looks outdated and unappealing when compared to modern services/products. This is because of its outdated icons, lack of stylisation and basic backgrounds.
+We have identified many issues with the PeerWise app. However, we have selected the most-pressing concerns and listed them below:
+#REVIEW THIS
+1. Peerwise has an outdated and inconvenient interface. It is not user-centric for the modern day student 
+2. The registration process is long and convoluted
+3. -----
+
 <br>
 To solve this issue a modernised interface and design is needed. Having this will make it easier for students to use PeerWise and they will be more incentivised to continue using it in the future. They will also be more likely to recommend it to family and friends. This will lead to a larger user-base that has more returning users (users that revisit PeerWise). It will also help with the key business objectives of PeerWise (listed below):
 - Instructors can facilitate collaborative student learning through course creation and activation
