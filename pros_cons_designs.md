@@ -43,6 +43,7 @@
 # August:
 
 ## Pros:
+**Recognition**, uses a footer to include facebook, instagram and twitter pages. Other project didn't consider this aspect 
 
 **Consistency**, layout and general design style remains consistent throughout the website.
 
@@ -52,5 +53,9 @@
 
 ## Cons:
 
+**Status**, Lacks status ideas such as loading and progression bars, however this is a mockup design and doesn't implement all 'active' features
+
 **Minimal Design**, I feel like it's just a bit too much colour. Not a huge fan of using blue as background colour.
+
+**Minimal Design**, Some areas are over crowded with text
 
