@@ -37,6 +37,9 @@
 
 **Minimal Design**, I feel like it's just a bit too much colour.
 
+**Consistency**, The design is always intuitive to the creator, however it must always be tested by a sample target audience. An example would be seeing which button people click to ‘Ask a question’.
+
+
 # August:
 
 ## Pros:
