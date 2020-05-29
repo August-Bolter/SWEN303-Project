@@ -6,7 +6,7 @@
 
 **Recognition**, follows Google's guidelines, so users familiar will Google products will be able to pick up Peerwise.
 
-**Recognition**, Familiar icons and shortcups which support an intuative feel
+**Recognition**, Familiar icons and shortcuts which support an intuative feel
 
 **Minimal Design**, only the most important elements are shown to the user. No unnecessary controls that can be interpreted as confusing. Also a careful use of colour, to not overwhelm or distract the user.
 
