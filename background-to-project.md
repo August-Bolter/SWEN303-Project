@@ -80,10 +80,11 @@ As mentioned above, we have identified three major issues with the current learn
 
 As students of the 21st century, we are becoming an increasingly diverse range of people. We now understand that there are an incredibly wide range of people, all with different learning abilities, and recognise that education should be accessible for everyone. The main issue with the current education system is that the way it is designed, it is only suited for a very specific, and minority group of people’s learning styles. Our learning system is designed to help students who may have different learning types to the one that we are used to teaching in schools. Our new, updated learning management system has been designed to help the course content be more accessible and understandable for the students. Therefore, it is obvious that our system’s main objectives is to create:
 
+#### remake this list with group / check what they want aagin 
 1. An easily navigable system that is intuitive to use
 2. As a result, this app should support students to help pass their exams, and understand the course content better
 3. Provide a system which the students can interact with each other as well as the teacher, and provide statistics to both the teacher and students in the class to understand how well the rest of the class is doing 
-4. The app is designed to create a judge-free zone, allowing students to efficiently give feedback to the lecturersand increase the level constructive dialogue to lecturers
+4. The app is designed to create a judge-free zone, allowing students to efficiently give feedback to the lecturers and increase the level constructive dialogue to lecturers
  
 Justification for the main core functions
 Our learning management system is supposed to be designed in such a way that is easy and accessible for everyone. While it is easy to assume that the large majority of students are used to technology and the basic, common layout for most apps, it is also important there are also a number of postgraduate, mature students as well as lecturers who may not necessarily be used to technology. Therefore it should be intuitive to use, even for people who aren’t used to technology. 
