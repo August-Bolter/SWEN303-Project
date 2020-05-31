@@ -1,7 +1,27 @@
-#ADD YOUR WORK HERE
+# SWEN303 Protect Part 1 - Prototype
 
-### Scenarios/Use-cases (ranked from most important to least important)
-By August
+__Ahad Rahman (300433299)__
+__George Dorrington (300429785)__
+__Justina Koh(*********)__
+__Daniel Pullon(******(***))__
+__August Bolter (*********)__
+
+
+*Assignment Mark Weighting*
+* Design Evaluation = 0%
+* Prototype = 0%
+* Video = 0%
+* Reflection = 0%
+
+## Part 1: Background
+
+
+
+## Part 2: Personas
+
+
+
+## Part 3: Scenarios // August
 
 1. Create Course (Personas Involved: Sarah)
 
@@ -69,3 +89,27 @@ Create Course (August: (1 - (2/14)) (85.7%), Ahad and George (1 - (2/7)) (71.44%
 Edit Course (August: N/A, Ahad and Geroge (1 - (3/7)) (42.85%), Justina and Daniel N/A, Average 42.85%)
 
 Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justina and Daniel (1 - (3/5)) (40%), Average 48.6%)
+
+
+## Part 4: Background
+
+
+
+## Part 5: Background
+
+
+
+## Part 6: Background
+
+
+
+## Part 7: Background
+
+
+
+## Part 8: Background
+
+
+
+
+
