@@ -32,7 +32,9 @@ To start each group discussed their personas and the qualities they associated t
 * Disengaged Student
 
 We followed this up by having constructive discussions around how many personas we wanted to follow through with, to start we recognised that we wanted to focus on the base cases of personas and have little to no overlap between them. An example of this is having a disengaged and engaged student with them operating PeerWise significantly differently.
+
 For the previous project most groups had identified five or six personas however we all agreed that it became harder to differentiate users with unique characteristics once you looked at covering more than four persona, therefore, we stuck with four. But however, we were open to the idea of potentially creating another persona later in the development of the PeerWise application. 
+
 We then looked at deciding on which of the four titles we wanted to follow through with, however this was not as easy as expected because people tended to prefer their own personas because they understood them better. We finally agreed upon the following four:
 
 * Lecturer 
