@@ -21,8 +21,40 @@ __August Bolter (*********)__
 
 
 
-## Part 2: Personas
+## Part 2: Personas // George
 
+To start each group discussed their personas and the qualities they associated to them. We identified that each group had some common tittles which were the following:
+
+* Course Coordinator 
+* Lecturer 
+* Tutor
+* Engaged Student
+* Disengaged Student
+
+We followed this up by having constructive discussions around how many personas we wanted to follow through with, to start we recognised that we wanted to focus on the base cases of personas and have little to no overlap between them. An example of this is having a disengaged and engaged student with them operating PeerWise significantly differently.
+For the previous project most groups had identified five or six personas however we all agreed that it became harder to differentiate users with unique characteristics once you looked at covering more than four persona, therefore, we stuck with four. But however, we were open to the idea of potentially creating another persona later in the development of the PeerWise application. 
+We then looked at deciding on which of the four titles we wanted to follow through with, however this was not as easy as expected because people tended to prefer their own personas because they understood them better. We finally agreed upon the following four:
+
+* Lecturer 
+* Tutor
+* Engaged Student
+* Disengaged Student
+
+As we progressed through the project, we recognised time was going to be an area of concern and getting a finished prototype was more important in the big picture. To navigate this concern, we decided we wouldn’t formalise the look of the personas as we felt as long as they had similar headings and content they can still be used effectively in the development process. they would all be as equally useful. The common headings were the following (Not all worded the same)
+
+* Description
+* Attitudes
+* Aptitudes 
+* Motivations
+* Skills
+* Weaknesses
+
+Below are the final personas listed in order of most important to least important:
+
+* Student Engaged - Sally 
+* Student Disengaged - Liam 
+* Lecturer - Sarah 
+* Tutor - Veronica 
 
 
 ## Part 3: Scenarios // August
