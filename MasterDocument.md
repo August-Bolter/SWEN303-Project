@@ -4,9 +4,9 @@ __Ahad Rahman (300433299)__
 
 __George Dorrington (300429785)__
 
-__Justina Koh(*********)__
+__Justina Koh (*********)__
 
-__Daniel Pullon(*********)__
+__Daniel Pullon (*********)__
 
 __August Bolter (*********)__
 
