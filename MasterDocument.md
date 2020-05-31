@@ -95,23 +95,24 @@ Edit Course (August: N/A, Ahad and Geroge (1 - (3/7)) (42.85%), Justina and Dani
 Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justina and Daniel (1 - (3/5)) (40%), Average 48.6%)
 
 
-## Part 4: Background
+## Part 4: Design ideation
 
 
 
-## Part 5: Background
+## Part 5: Design review
 
 
 
-## Part 6: Background
+
+## Part 6: Prototype
 
 
 
-## Part 7: Background
+## Part 7: Video
 
 
 
-## Part 8: Background
+## Part 8: Group reflection
 
 
 
