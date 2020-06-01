@@ -228,7 +228,9 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 ## Part 5: Design review
 **Pros**
 Roleplaying
+<br>
 Going through the program has shown that we have thought out the design for each persona.
+<br>
 Roleplaying as Sally showed the strength of our design for someone that will spend a long time using the app. Going through each section of the page requires minimal clicks. We know that Sally will be using all areas of the site throughout her studies therefore it is also crucial that we have a home button at the top of every page so that no matter which page she is on, she can quickly return to the homepage. This means that the highest number of clicks to get from one page to ANY other page is 4 clicks, this is a huge positive for workflow as it doesn't matter where you are.
 <br>
 Roleplaying as Liam shows the strength of our breadcrumb menu system. For Liam he won't use many of the app's features as he will not be engaged until the final moments of the course, therefore we need it to be clear and easy to get to where he wants and provide the necessary information with minimal effort. Our homepage does this by clearly dividing the website into 4 sections, once in each section you only see the information related to that section, this is important for Liam as he only wants to answer quizzes and doesn't need the rest.
