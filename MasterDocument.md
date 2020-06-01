@@ -245,7 +245,7 @@ The merging of designs was actually quite a (comparatively) smooth transition. T
 Steps:
 | Step number and title | Description | Reflection |
 | ------ | ------ | ------ |
-| 1. Review our own, and other's designs | The first that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design. | |
+| 1. Review our own, and other's designs | The first that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design. |- |
 | cell | cell | cell |
 
 ### Best and Worst parts of Prototype
