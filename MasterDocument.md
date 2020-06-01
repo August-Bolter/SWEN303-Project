@@ -133,42 +133,32 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 
 
-## Part 2: Personas // George
+## Part 2: Personas 
 
-To start each group discussed their personas and the qualities they associated to them. We identified that each group had some common tittles which were the following:
-
-* Course Coordinator 
-* Lecturer 
-* Tutor
-* Engaged Student
-* Disengaged Student
-
-We followed this up by having constructive discussions around how many personas we wanted to follow through with, to start we recognised that we wanted to focus on the base cases of personas and have little to no overlap between them. An example of this is having a disengaged and engaged student with them operating PeerWise significantly differently.
-
-For the previous project most groups had identified five or six personas however we all agreed that it became harder to differentiate users with unique characteristics once you looked at covering more than four persona, therefore, we stuck with four. But however, we were open to the idea of potentially creating another persona later in the development of the PeerWise application. 
-
-We then looked at deciding on which of the four titles we wanted to follow through with, however this was not as easy as expected because people tended to prefer their own personas because they understood them better. We finally agreed upon the following four:
-
-* Lecturer 
-* Tutor
-* Engaged Student
-* Disengaged Student
-
-As we progressed through the project, we recognised time was going to be an area of concern and getting a finished prototype was more important in the big picture. To navigate this concern, we decided we wouldn’t formalise the look of the personas as we felt as long as they had similar headings and content they can still be used effectively in the development process. they would all be as equally useful. The common headings were the following (Not all worded the same)
-
-* Description
-* Attitudes
-* Aptitudes 
-* Motivations
-* Skills
-* Weaknesses
-
-Below are the final personas listed in order of most important to least important:
+###Selected personas in order of priority (from most to least important):
 
 * Student Engaged - Sally 
 * Student Disengaged - Liam 
-* Lecturer - Sarah 
+* Lecturer - Daniel
 * Tutor - Veronica 
+
+### Merging of personas background 
+To begin each group shared their personas and the qualities associated with them. It was identified that each group had similar titles for their personas and these were:
+* Course Coordinator 
+* Lecturer 
+* Tutor
+* Engaged student
+* Neutral student
+* Disengaged student
+
+This was followed by some constructive discussion about the number of personas the group wanted to pursue. It was recognised that the group wanted to focus on the base case personas which minimises the overlap between each persona. A specific example of this is originally there were personas for engaged, neutral and disengaged students, and it was agreed to deselect neutral students because it was difficult to differentiate how a neutral student would use the Peerwise application differently to a disengaged student. The group remained open to creating another persona later in the development of the PeerWise application if was required. The group then decided on the need to identify four persona titles to use during the development stage of the prototype. This process was not as easy as the group expected because individuals had a preference for their own personas, due mainly to them having a deeper understanding of their characteristics. The group ultimately agreed on the following four personas:
+
+* Lecturer 
+* Tutor
+* Engaged Student
+* Disengaged Student
+
+As the group progressed through the project, it was recognised that time was a restraint, and having a completed prototype for testing was identified was determined the priority. To mitigate the time constraint, the group decided it was unnecessary to standardise the look and feel of the personas, as the most important aspects were title and the content, and they could still be used effectively within the development stage of the prototype. There was a significant amount of commonality within the detail of the personas relating to attitude, aptitude, motivation and skills, which led to the group reaching agreement on the persona detail relatively quickly. 
 
 
 ## Part 3: Scenarios // August
