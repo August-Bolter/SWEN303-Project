@@ -1,8 +1,6 @@
-![Designs]()**Ahad and George**
+![Design]()**Ahad and George**
 
-**Justina and Daniel:**
-![](https://xd.adobe.com/view/70612efa-caf3-485f-7595-d84c763c3d96-0650/)Web
-![](https://xd.adobe.com/view/07e17121-f4ba-4637-4eba-be371caeb76c-71d0/)Mobile
+![Designs]()**Justina and Daniel**
 
-![Designs]()**August:**
+![Design](Designs/Assignment_2_Information_Hierarchy_Final.xd)**August:**
 
