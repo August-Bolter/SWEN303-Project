@@ -90,11 +90,11 @@ Below we have listed the possible stakeholders along with the power and interest
 - low interest: _a person or entity who is interested in the app, and would like to be occasionally updated as to what the app can do_
 
 Identified stakeholders:
-- Lecturers        low power/High interest
-- Students      high power/High interest
-- University    low power/low interest
+- Lecturers:        low power/High interest
+- Students:      high power/High interest
+- University:    low power/low interest
 
-The reasoning for the above decisions are listed below:
+The reasoning for the above decisions are listed below: <br>
 Lecturer:
 - We want this app to be more student centred as it is an app that is supposed to better _student learning_ not lecturer's ability to teach / conveying information to students. Therefore, we have reduced the lecturer to a low power status.
 - We would assume that lecturers would be highly interested in an app that would improve student's grades.
