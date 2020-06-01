@@ -306,6 +306,7 @@ Shortcuts
 The breadcrumb system as previously discussed helps with this. The app has a low barrier to entry as you know that you can backtrack from anywhere and return to the homepage, this means that the app is quick to master which allows for quick traversals across the site.
 
 **Cons**
+<br>
 Shortcuts
 <br>
 We don't implement specific macros that complete many tasks at once. This is a design choice as we felt it was more important to lower the barrier to entry for people who first view the site then it was to develop complicated shortcuts for heavy users. We feel that heavy users will not be too strongly impacted as there are a limited number of clicks to move through the website.
