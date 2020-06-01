@@ -74,18 +74,38 @@ By having this improvement, it will make it easier for students to use PeerWise 
 - PeerWise has an easy-to-use, convenient and modernised interface and has an aesthetically pleasing design
 
 ### Stakeholder Information
-Below we have listed the possible stakeholders along with the 
+Below we have listed the possible stakeholders along with the power and interests that they hold in the app. We have defined that those with;
+- high power: _a person or entity who we want to satisify with our app functions etc._
+- low power: _a person or entity who we aren't so concerned about meeting their needs with the app's functions_
+- high interest: _a person or entity who would be highly interested in what the app can currently do, and the development of the app in the future_
+- low interest: _a person or entity who is interested in the app, and would like to be occasionally updated as to what the app can do_
+
+
 Identified stakeholders:
-- Lecturers	    High power/High interest
-- Students      High power/High interest
-- University    High power/low interest
- 
+- Lecturers	    low power/High interest
+- Students      high power/High interest
+- University    low power/low interest
+
+The reasoning for the above decisions are listed below:
+Lecturer:
+- We want this app to be more student centred as it is an app that is supposed to better _student learning_ not lecturer's ability to teach / conveying information to students. Therefore, we have reduced the lecturer to a low power status.
+- We would assume that lecturers would be highly interested in app that would improve student's grades.
+
+Students:
+- As this is an app that is created for student use and to help student learning, we have made students a high power status. We care greatly about how they feel about the app, and whether they are enjoying the app or not.
+- Students are also high interest individuals as they should be highly interested in what we plan to do with the app in the future etc. 
+
+University:
+- We have given the university a lower power status for the same reason we gave the lecturers a low power status. As it is an app that foccusses on students, and helping students learn, we won't worry so much about how the university enjoys the app and its functions. 
+- We would assume that as the app is supposed to help students learn, then the unveristy would be interested in how the app functions, updates etc. for the app. 
+
 | Lecturers | Students | University  |
 |-----------------|:-------------|:---------------:|
 | Is our system better than the current learning management system? | Is our system better than the current learning management system?|Is our system better than the current learning management system?
 | Can false or incorrect content be made by other students / non students|Will incorrect information be created by users |Will the students and lecturers use this app|
 |Will the app be easy and intuitive to use |Will the app be easy to use |Will it cause students to disengaged and not go to lecture|
-|Will it cause students to disengaged and not go to lecture|              |             
+|Will it cause students to disengaged and not go to lecture|              |  
+
 
 #### Importance to StakeHolders
 PeerWise is important as it gives students another way to learn course material. If students keep learning in the same way they are more likely to become demotivated and unenthusiastic about learning so they will find it harder to take in course material. This might lead them to submitting lower quality assignments/projects and/or performing worse in exams. PeerWise is also important because it allows students to learn from each other and they can give each other different views and opinions on topics which they may not have thought about. This results in a much deeper understanding of the topic.<br>
