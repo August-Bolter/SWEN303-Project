@@ -43,7 +43,6 @@
 *  Lacks a way for users to give feedback to PeerWise
 
 # Daniel + Justina:
-# Daniel + Justina:
 
 ## Pros:
 
