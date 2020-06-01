@@ -74,38 +74,18 @@ By having this improvement, it will make it easier for students to use PeerWise 
 - PeerWise has an easy-to-use, convenient and modernised interface and has an aesthetically pleasing design
 
 ### Stakeholder Information
-Below we have listed the possible stakeholders along with the power and interests that they hold in the app. We have defined that those with;
-- high power: _a person or entity who we want to satisify with our app functions etc._
-- low power: _a person or entity who we aren't so concerned about meeting their needs with the app's functions_
-- high interest: _a person or entity who would be highly interested in what the app can currently do, and the development of the app in the future_
-- low interest: _a person or entity who is interested in the app, and would like to be occasionally updated as to what the app can do_
-
-
+Below we have listed the possible stakeholders along with the 
 Identified stakeholders:
-- Lecturers	    low power/High interest
-- Students      high power/High interest
-- University    low power/low interest
-
-The reasoning for the above decisions are listed below:
-Lecturer:
-- We want this app to be more student centred as it is an app that is supposed to better _student learning_ not lecturer's ability to teach / conveying information to students. Therefore, we have reduced the lecturer to a low power status.
-- We would assume that lecturers would be highly interested in app that would improve student's grades.
-
-Students:
-- As this is an app that is created for student use and to help student learning, we have made students a high power status. We care greatly about how they feel about the app, and whether they are enjoying the app or not.
-- Students are also high interest individuals as they should be highly interested in what we plan to do with the app in the future etc. 
-
-University:
-- We have given the university a lower power status for the same reason we gave the lecturers a low power status. As it is an app that foccusses on students, and helping students learn, we won't worry so much about how the university enjoys the app and its functions. 
-- We would assume that as the app is supposed to help students learn, then the unveristy would be interested in how the app functions, updates etc. for the app. 
-
+- Lecturers	    High power/High interest
+- Students      High power/High interest
+- University    High power/low interest
+ 
 | Lecturers | Students | University  |
 |-----------------|:-------------|:---------------:|
 | Is our system better than the current learning management system? | Is our system better than the current learning management system?|Is our system better than the current learning management system?
 | Can false or incorrect content be made by other students / non students|Will incorrect information be created by users |Will the students and lecturers use this app|
 |Will the app be easy and intuitive to use |Will the app be easy to use |Will it cause students to disengaged and not go to lecture|
-|Will it cause students to disengaged and not go to lecture|              |  
-
+|Will it cause students to disengaged and not go to lecture|              |             
 
 #### Importance to StakeHolders
 PeerWise is important as it gives students another way to learn course material. If students keep learning in the same way they are more likely to become demotivated and unenthusiastic about learning so they will find it harder to take in course material. This might lead them to submitting lower quality assignments/projects and/or performing worse in exams. PeerWise is also important because it allows students to learn from each other and they can give each other different views and opinions on topics which they may not have thought about. This results in a much deeper understanding of the topic.<br>
@@ -246,6 +226,19 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 
 ## Part 5: Design review
+**Pros**
+Roleplaying
+Going through the program has shown that we have thought out the design for each persona.
+Roleplaying as Sally showed the strength of our design for someone that will spend a long time using the app. Going through each section of the page requires minimal clicks. We know that Sally will be using all areas of the site throughout her studies therefore it is also crucial that we have a home button at the top of every page so that no matter which page she is on, she can quickly return to the homepage. This means that the highest number of clicks to get from one page to ANY other page is 4 clicks, this is a huge positive for workflow as it doesn't matter where you are.
+<br>
+Roleplaying as Liam shows the strength of our breadcrumb menu system. For Liam he won't use many of the app's features as he will not be engaged until the final moments of the course, therefore we need it to be clear and easy to get to where he wants and provide the necessary information with minimal effort. Our homepage does this by clearly dividing the website into 4 sections, once in each section you only see the information related to that section, this is important for Liam as he only wants to answer quizzes and doesn't need the rest.
+<br>
+Roleplaying as the lecturer also showed how our design only shows you the information you need at one time. When enrolling students everything else goes dark and an overlay is displayed, for busy lecturers this is important as they need to spend the minimal time as possible due to their busy schedules.
+<br>
+
+
+
+**Cons**
 
 
 
@@ -259,23 +252,7 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 
 ## Part 8: Group reflection
-### Merging the designs
-The merging of designs was actually quite a (comparatively) smooth transition. This was likely due to the way we had approached this situation. 
 
-Steps:
-
-| Step and Title | Description of what we did | Reflection |
-| ------ | ------ | ------ |
-| 1. Review our own and each other's designs | The first thing that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design.  | This was an incredibly good step to carry out. If we were to do this assignment again, we would most definitely start with this step. By carrying out this step, we were able to fully understand what each person liked and disliked about our designs, and therefore it was an incredibly good starting point to help us start planning what we wanted our combined design to look like.    |
-| 2. Give feedback and discuss the main points of design | In this step, we had a zoom call where we elaborated each point that we wrote down regarding what we liked and disliked about each other's design. This allowed us to clarify any misunderstandings that we had, and also allowed us to properly voice what we liked and what didn't like.  | This was also an incrediblt important step in our process. By having this process, it allowed each other to discuss, question and understand why we made certain design choices, why we liked / didn't like certain aspects of each other's design etc.  In this step, it allowed us to understand each other a bit more, and fully appreciate why certain design choices were made. |
-| ------ | ------ | ------ |
-| ------ | ------ | ------ |
-| ------ | ------ | ------ |
-| ------ | ------ | ------ |
-
-
-
-### Best and Worst parts of Prototype
 
 
 
