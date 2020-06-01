@@ -288,6 +288,15 @@ We don't implement specific macros that complete many tasks at once. This is a d
 
 
 ## Part 6: Prototype
+
+
+
+
+## Part 7: Video
+
+
+
+## Part 8: Group reflection
 The merging of designs was actually quite a (comparatively) smooth transition. This was likely due to the way we had approached this situation. While we definitely carried out some 'mistakes’ in trying to merge our designs, it wasn’t anything too significant, and our team was still able to function quite efficiently regardless.
 
 We have listed below the steps that we carried out to merge our designs, a description of what was done at each step, and a reflection on how effective each step was. 
@@ -306,16 +315,8 @@ If we were to do the assignment again, we would not have carried out this step  
 
 In the end we ended up cutting some decisions that we had previously wanted to make on our design as it didn’t contribute anything for the user.  | This was a good step to have. Ideally, this step would have been earlier on, maybe about step 3 (after making personas and use cases).
 If this step, and step 6 were done earlier, it would mean that we would have had an easier time combining our thoughts together and deciding what design choices we wanted to do. This is because, after we carried out this step, we realised that many of the original choices that we had made in step 2 were now redundant as those choices were made for us, and provided nothing additional for the user. |
-|7. Started the template again | Here we started the design template again. |
+|7. Started the template again | Here we started the design template again. From here on, it was rather smooth running.|
 
-
-
-
-## Part 7: Video
-
-
-
-## Part 8: Group reflection
 
 
 
