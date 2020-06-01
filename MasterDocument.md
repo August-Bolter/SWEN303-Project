@@ -11,10 +11,10 @@ __Daniel Pullon (300357323)__
 __August Bolter (300456915)__
 
 *Assignment Mark Weighting*
-* Design Evaluation = 0%
-* Prototype = 0%
-* Video = 0%
-* Reflection = 0%
+* Design Evaluation = 30%
+* Prototype = 40%
+* Video = 15%
+* Reflection = 15%
 
 ## Part 1: Background
 ### Existing Solution
