@@ -137,7 +137,7 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 ### Selected personas in order of priority (from most to least important):
 
-* Student Engaged - Sally 
+* [Student Engaged - Sally](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Engaged_Student.pdf)
 * Student Disengaged - Liam 
 * Lecturer - Daniel
 * Tutor - Veronica 
