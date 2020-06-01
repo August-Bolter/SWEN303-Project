@@ -250,10 +250,20 @@ By following a design language and staying consistent with that language we can 
 <br><br>
 Preventing Errors
 <br>
-As discussed above, we remove errors by keeping things such as buttons consistent. This reduces errors as you know that a blue button signifies change, 
+As discussed above, we remove errors by keeping things such as buttons consistent. This reduces errors as you know what will happen for example a blue button signifies change.
+<br><br>
+Minimal Design
+<br>
+We used minimal colours so that it wasn't overwhelming, while also being appropriate for the age group that we were aiming for. We also used the colour white as much as possible to help with clarity, this helped to contrast the text while also drawing your eye (using specific colours) to the important information.
+<br><br>
+Shortcuts
+<br>
+The breadcrumb system as previously discussed helps with this. The app has a low barrier to entry as you know that you can backtrack from anywhere and return to the homepage, this means that the app is quick to master which allows for quick traversals across the site.
 
 **Cons**
-
+Shortcuts
+<br>
+We don't implement specific macros that complete many tasks at once. This is a design choice as we felt it was more important to lower the barrier to entry for people who first view the site then it was to develop complicated shortcuts for heavy users. We feel that heavy users will not be too strongly impacted as there are a limited number of clicks to move through the website.
 
 
 
