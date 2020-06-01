@@ -135,7 +135,7 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 ## Part 2: Personas 
 
-###Selected personas in order of priority (from most to least important):
+### Selected personas in order of priority (from most to least important):
 
 * Student Engaged - Sally 
 * Student Disengaged - Liam 
