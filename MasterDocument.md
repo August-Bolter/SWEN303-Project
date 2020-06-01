@@ -60,7 +60,6 @@ We have identified many issues with the Peerwise app. However, the most pressing
 <br>
 - Peerwise has an outdated and inconvenient interface. It is not user-centric for the modern day student. Peerwise currently doesn’t follow very many design rules - in particular, material design by Google. The way that Peerwise has been designed is hard to use, not very aesthetic and therefore off-putting.
 
-<br>
 In order to solve this issue, we have decided that we need to create a modernised interface and design. We will be following the Material Design standard, which was created by Google as it is a widely used standard, and is a familiar aesthetic to people today. Therefore we can trust that by following the standard, we will be able to achieve a website that users will find aesthetically pleasing. 
 <br>
 
