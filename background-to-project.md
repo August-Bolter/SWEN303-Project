@@ -26,8 +26,7 @@ However, keeping in mind the objectives listed above, there are also issues whic
 2. The app is unituitive and can be hard / finicky to use
 3.
 
-The combination of the top three issues we have listed with the project is incredibly problematic. This is due to the fact that this combination causes the app to be unusable / the user to not want to use it, and that defeats the very purpose of the app in the first place. Additionally, there are very many other issues that we have not listed, and those points further deter the users from wanting to use the app. 
-
+The combination of the top three issues we have listed with the project is incredibly problematic. This is due to the fact that this combination causes the app to be unusable / the user to not want to use it, and that defeats the very purpose of the app in the first place. 
 __________________________________________________________________________________________________________
 #### Existing Solutions 
 There are a number of systems that are similar to PeerWise such as Kahootz, GoSoapBox, and Wooclap. 
