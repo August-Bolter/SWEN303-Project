@@ -8,7 +8,7 @@ __Justina Koh (300441630)__
 
 __Daniel Pullon (300357323)__ 
 
-__August Bolter (*********)__
+__August Bolter (300456915)__
 
 *Assignment Mark Weighting*
 * Design Evaluation = 0%
