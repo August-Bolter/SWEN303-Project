@@ -44,7 +44,7 @@ However, keeping in mind the objectives listed above, there are also issues whic
 The combination of the top three issues we have listed with the project is incredibly problematic. This is due to the fact that this combination causes the app to be unusable / the user to not want to use it, and that defeats the very purpose of the app in the first place. 
 __________________________________________________________________________________________________________
 #### Existing Solutions 
-There are a number of systems that are similar to PeerWise such as Kahootz, GoSoapBox, and Wooclap. 
+There are a number of systems that are similar to PeerWise such as Kahoot, GoSoapBox, and Wooclap. 
 <br>
 
 All these services have a large sign up/sign in banner at the top of their home page so that it’s the first thing that you see when you first visit the website. Below this they show people that have used their service. Each persons’ demographics and occupation are shown as well therefore, people visiting the website find it easier to identify whether they would use it since they can see if they are similar to the userbase. There are also quotes from these users explaining their positive experiences with it. This means visitors of the site will be more likely to use it. 
@@ -60,13 +60,14 @@ PeerWise is a tool instructors (secondary school teachers or university course c
 
 <br>
 We have identified many issues with the PeerWise app. However, we have selected the most-pressing concerns and listed them below:
-#REVIEW THIS
 1. Peerwise has an outdated and inconvenient interface. It is not user-centric for the modern day student 
 2. The registration process is long and convoluted
-3. -----
+3. Peerwise doesn't follow very many of design rules.  It is hard to use, not very aesthetic and therefore off-putting.
 
 <br>
-To solve this issue a modernised interface and design is needed. Having this will make it easier for students to use PeerWise and they will be more incentivised to continue using it in the future. They will also be more likely to recommend it to family and friends. This will lead to a larger user-base that has more returning users (users that revisit PeerWise). It will also help with the key business objectives of PeerWise (listed below):
+In order to solve the issues that we have listed above we have decided that we need to create a modernised interface and design. We will be following the Google Design standards, as this is a widely used standard and is a familiar aesthetic to people today. 
+<br>
+By having this improvement, it will make it easier for students to use PeerWise and they will be more incentivised to continue using it in the future. They will also be more likely to recommend it to family and friends. This will lead to a larger user-base that has more returning users (users that revisit PeerWise). It will also help with the key business objectives of PeerWise (listed below):
 - Instructors can facilitate collaborative student learning through course creation and activation
 - Students can have a deeper understanding of topics by explaining and discussing questions and their answers
 - PeerWise has an easy-to-use, convenient and modernised interface and has an aesthetically pleasing design
