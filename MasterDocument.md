@@ -418,6 +418,7 @@ If this step, and step 6 were done earlier, it would mean that we would have had
 |7. Started the template again | Here we started the design template again. From here on, it was rather smooth running.|
 
 
+### Pros and Cons of New Prototype
 
 **Pros**
 <br>
