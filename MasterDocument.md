@@ -18,9 +18,6 @@ __August Bolter (*********)__
 * Reflection = 0%
 
 ## Part 1: Background
-
-- more student focussed because 
-
 ### Existing Solution
 Peerwise is an online learning tool created by Auckland University. It is used in addition to classes and tutorials to help further a student’s understanding of specific course content with minimal lecturer input. 
 <br>
