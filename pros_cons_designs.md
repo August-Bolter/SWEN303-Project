@@ -43,6 +43,7 @@
 *  Lacks a way for users to give feedback to PeerWise
 
 # Daniel + Justina:
+# Daniel + Justina:
 
 ## Pros:
 
@@ -50,23 +51,29 @@
 
 *  Layout and general design style remains consistent throughout the website.
 *  A bright consistent colour scheme is used throughout the website
-
-**Recognition**
-
-*  Text hyperlinks are underlined and blue which is the standard style for hyperlinks meaning it is easy for users to recognise that the text is a hyperlink.
+*  A bright consistent colour scheme is used throughout the website
+*  The body text has the same font in different pages (font selection is consistent)
+*  The mobile app design is consistent with the website design. This allows for easy switching between the two interfaces.
 
 **Language**
-
+*  Uses language that matches the user-base (university students and staff) vocabulary (e.g. Course codes)
 *  Buttons are self-descriptive. I know what I am expecting when clicking a button.
 
-**Status**
-
-*  Tells the user what courses they are in via a dropdown menu
+**Recognition**
+*  Text hyperlinks are underlined and blue which is the standard style for hyperlinks meaning it is easy for users to recognise that the text is a hyperlink.
+*  Icons used are very ‘typical’ and are icones that there is a global understanding of what they mean. 
 
 **Help**
-
 *  A colour blind mode is available, so the design accounts for colour blind people
+*  The buttons and layout of the app is very clear and obvious. This means that the app is very intuitive to us and no explanation is needed
 *  Students can give feedback to the lecturer
+
+**Status**
+*  Tells the user what courses they are in via a dropdown menu
+
+**Error Prevention** 
+*  The app has been made in such a simple way that there is no need for error prevention messages. 
+
 
 ## Cons:
 
@@ -78,6 +85,18 @@
 
 *  I feel like it's just a bit too much colour.
 *  Not enough space between components on the web page, this results in the components looking a bit cramped up
+*  There is a tiny bit too much colour which can detract away from the overall effectiveness of the design.
+*  Not enough space between components on the web page, this results in the components looking a bit cramped up
+
+**Consistency**
+*  The design is always intuitive to the creator, however it must always be tested by a sample target audience. An example would be seeing which button people click to ‘Ask a question’.
+
+**Status**
+*  Lacks status updates such as the popups when user is hovering over options. 
+
+**Shortcuts**
+*  No shortcuts currently implemented, to do frequent use cases. Have to do everything with mouse and going back to Dashboard
+
 
 # August:
 
