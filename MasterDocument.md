@@ -8,7 +8,7 @@ __Justina Koh (300441630)__
 
 __Daniel Pullon (300357323)__
 
-__August Bolter (300456915)__
+__August Bolter (*********)__
 
 
 *Assignment Mark Weighting*
@@ -113,32 +113,42 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 
 
-## Part 2: Personas 
+## Part 2: Personas // George
 
-### Selected personas in order of priority (from most to least important):
+To start each group discussed their personas and the qualities they associated to them. We identified that each group had some common tittles which were the following:
 
-* Student Engaged - Sally 
-* Student Disengaged - Liam 
-* Lecturer - Sarah 
-* Tutor - Veronica 
-
-### Merging of personas background 
-
-To begin each group shared their personas and the qualities associated with them. It was identified that each group had similar titles for their personas and these were:
 * Course Coordinator 
-* Lecturer 
-* Tutor
-* Engaged student
-* Neutral student
-* Disengaged student
-
-This was followed by some constructive discussion about the number of personas the group wanted to pursue. It was recognised that the group wanted to focus on the base case personas which minimises the overlap between each persona. A specific example of this is originally there were personas for engaged, neutral and disengaged students, and it was agreed to deselect neutral students because it was difficult to differentiate how a neutral student would use the Peerwise application differently to a disengaged student. The group remained open to creating another persona later in the development of the PeerWise application if was required. The group then decided on the need to identify four persona titles to use during the development stage of the prototype. This process was not as easy as the group expected because individuals had a preference for their own personas, due mainly to them having a deeper understanding of their characteristics. The group ultimately agreed on the following four personas:
 * Lecturer 
 * Tutor
 * Engaged Student
 * Disengaged Student
 
-As the group progressed through the project, it was recognised that time was a restraint, and having a completed prototype for testing was identified was determined the priority. To mitigate the time constraint, the group decided it was unnecessary to standardise the look and feel of the personas, as the most important aspects were title and the content, and they could still be used effectively within the development stage of the prototype. There was a significant amount of commonality within the detail of the personas relating to attitude, aptitude, motivation and skills, which led to the group reaching agreement on the persona detail relatively quickly. 
+We followed this up by having constructive discussions around how many personas we wanted to follow through with, to start we recognised that we wanted to focus on the base cases of personas and have little to no overlap between them. An example of this is having a disengaged and engaged student with them operating PeerWise significantly differently.
+
+For the previous project most groups had identified five or six personas however we all agreed that it became harder to differentiate users with unique characteristics once you looked at covering more than four persona, therefore, we stuck with four. But however, we were open to the idea of potentially creating another persona later in the development of the PeerWise application. 
+
+We then looked at deciding on which of the four titles we wanted to follow through with, however this was not as easy as expected because people tended to prefer their own personas because they understood them better. We finally agreed upon the following four:
+
+* Lecturer 
+* Tutor
+* Engaged Student
+* Disengaged Student
+
+As we progressed through the project, we recognised time was going to be an area of concern and getting a finished prototype was more important in the big picture. To navigate this concern, we decided we wouldn’t formalise the look of the personas as we felt as long as they had similar headings and content they can still be used effectively in the development process. they would all be as equally useful. The common headings were the following (Not all worded the same)
+
+* Description
+* Attitudes
+* Aptitudes 
+* Motivations
+* Skills
+* Weaknesses
+
+Below are the final personas listed in order of most important to least important:
+
+* Student Engaged - Sally 
+* Student Disengaged - Liam 
+* Lecturer - Sarah 
+* Tutor - Veronica 
 
 
 ## Part 3: Scenarios // August
@@ -217,6 +227,7 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 ## Part 5: Design review
 **Pros**
+<br>
 Roleplaying
 <br>
 Going through the program has shown that we have thought out the design for each persona.
@@ -226,9 +237,20 @@ Roleplaying as Sally showed the strength of our design for someone that will spe
 Roleplaying as Liam shows the strength of our breadcrumb menu system. For Liam he won't use many of the app's features as he will not be engaged until the final moments of the course, therefore we need it to be clear and easy to get to where he wants and provide the necessary information with minimal effort. Our homepage does this by clearly dividing the website into 4 sections, once in each section you only see the information related to that section, this is important for Liam as he only wants to answer quizzes and doesn't need the rest.
 <br>
 Roleplaying as the lecturer also showed how our design only shows you the information you need at one time. When enrolling students everything else goes dark and an overlay is displayed, for busy lecturers this is important as they need to spend the minimal time as possible due to their busy schedules.
+<br><br>
+Control
 <br>
-
-
+Exits are clearly marked. Using industry standards and following Google's material design helps to create an easily understandable and clear app.
+<br>
+Our use of buttons support this, all submission buttons are in blue, therefore you know that pressing one of these buttons will take you somewhere different, this includes things like enrolling students, submitting quizzes, creating quizzes, editing or deleting quizzes. All of these things are permanent changes and therefore it was important to make it clear that once clicked you will be changing something, this is also supported through the text on the buttons, we use words such as ADD, POST, RETURN, CREATE etc. These are all verbs which show that this button are actions.
+<br><br>
+Consistency
+<br>
+By following a design language and staying consistent with that language we can be confident that our program follows this principal. As previously mentioned, we thought about buttons, colours and shapes so that no matter where you are in the app it remains visually consistent. This also applies to the mobile and desktop apps, when swapping between them they are slightly different but the language remains the same, therefore working cross platform is easier.
+<br><br>
+Preventing Errors
+<br>
+As discussed above, we remove errors by keeping things such as buttons consistent. This reduces errors as you know that a blue button signifies change, 
 
 **Cons**
 
