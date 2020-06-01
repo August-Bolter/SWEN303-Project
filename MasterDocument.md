@@ -138,9 +138,10 @@ Many students are afraid to ask the lecturer questions during and after lectures
 ### Selected personas in order of priority (from most to least important):
 
 * [Student Engaged - Sally](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Engaged_Student.pdf)
-* Student Disengaged - Liam 
-* Lecturer - Daniel
-* Tutor - Veronica 
+* [Student Disengaed - Liam](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Disengaged_Student.pdf)
+* [Lecturer - Daniel](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Lecturer.pdf)
+* [Tutor - Veronica](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Tutor.pdf)
+
 
 ### Merging of personas background 
 To begin each group shared their personas and the qualities associated with them. It was identified that each group had similar titles for their personas and these were:
