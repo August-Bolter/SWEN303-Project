@@ -91,7 +91,7 @@
 *  The design is always intuitive to the creator, however it must always be tested by a sample target audience. An example would be seeing which button people click to ‘Ask a question’.
 
 **Status**
-*  Lacks status updates such as the popups when user is hovering over options. 
+*  Lacks status updates such as popups when user is hovering over options. 
 
 **Shortcuts**
 *  No shortcuts currently implemented, to do frequent use cases. Have to do everything with mouse and going back to Dashboard
