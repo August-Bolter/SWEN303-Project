@@ -100,20 +100,34 @@
 *  Dialog box makes it clear to the user what will happen after the user has made a choice. Buttons are self-descriptive.
 *  A confirmation dialogue appears when the user chooses to edit or delete their question, this ensures that the user doesn’t accidentally edit/delete the question.
 
-**Minimalism**, guidelines about creating questions are shown in a separate window, to reduce the amount of text on screen for the creating a question page
+**Minimalism**
 
-**Shortcuts**, the navigation bar allows the user to jump to different pages of the website
+*  Guidelines about creating questions are shown in a separate window, to reduce the amount of text on screen for the creating a question page
 
-**Status**, when the user hovers over a row in the table it darkens
+**Status**
 
+*  When the user hovers over a row in the table it darkens
+
+**Shortcuts**
+
+*  The navigation bar allows the user to jump to different pages of the website
+
+**Help**
+
+*  Users can give feedback to PeerWise via a feedback form
 
 ## Cons:
 
-**Consistency**, main background colour for webpages is not consistent, i.e. dark grey, dark blue and light blue are all background colours.
+**Consistency**
 
-**Status**, Lacks status ideas such as loading and progression bars, however this is a mockup design and doesn't implement all 'active' features
+*  Main background colour for webpages is not consistent, i.e. dark grey, dark blue and light blue are all background colours.
 
-**Minimal Design**, I feel like it's just a bit too much colour. Not a huge fan of using blue as background colour.
+**Minimalism**
 
-**Minimal Design**, Some areas are over crowded with text
+*  I feel like it's just a bit too much colour. Not a huge fan of using blue as background colour.
+*  Some areas are over crowded with text
+
+**Status**
+
+*  Lacks status ideas such as loading and progression bars, however this is a mockup design and doesn't implement all 'active' features
 
