@@ -123,7 +123,6 @@ Our learning management system is supposed to be designed in such a way that is 
 
 By having the students create the content for each other (or themselves) it allows them to develop a deeper understanding of what’s going on in the course. Many issues that people often have with lecturers is that the lecturers are highly trained in their course and therefore sometimes forget that the students aren’t as well versed in the subject as they are. By having students create content for students, they are more likely to create the content and write in such a manner that the other students will understand as well. 
 
-
 ## Part 2: Personas
 
 ### Selected personas in order of priority (from most to least important):
