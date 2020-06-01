@@ -204,9 +204,13 @@ How I calculated the rankings can be seen below.
 
 [Ahad and George](Designs/Final-Peerwise-Designs.xd)
 
-[Justina and Daniel]()
+
+Justina and Daniel:
+[Web](Designs/SWEN303_Assignment_2_-_Daniel_and_Justina.xd)
+[Mobile](Designs/swen303-A2-_Mobile_-_Justina_and_Daniel.xd)
 
 [August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
+
 
 ## Part 5: Design review
 
