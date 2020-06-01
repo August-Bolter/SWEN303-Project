@@ -60,6 +60,7 @@ We have identified many issues with the Peerwise app. However, the most pressing
 <br>
 - Peerwise has an outdated and inconvenient interface. It is not user-centric for the modern day student. Peerwise currently doesn’t follow very many design rules - in particular, material design by Google. The way that Peerwise has been designed is hard to use, not very aesthetic and therefore off-putting.
 
+<br>
 In order to solve this issue, we have decided that we need to create a modernised interface and design. We will be following the Material Design standard, which was created by Google as it is a widely used standard, and is a familiar aesthetic to people today. Therefore we can trust that by following the standard, we will be able to achieve a website that users will find aesthetically pleasing. 
 <br>
 
@@ -220,8 +221,8 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 
 Justina and Daniel:
-[Web](Designs/SWEN303_Assignment_2_-_Daniel_and_Justina.xd)
-[Mobile](Designs/swen303-A2-_Mobile_-_Justina_and_Daniel.xd)
+[Web](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Designs/SWEN303_Assignment_2_Justina_and_Daniel.xd)
+[Mobile](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Designs/swen303-A2-_Mobile_-_Justina_and_Daniel.xd)
 
 [August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
 
