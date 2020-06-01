@@ -65,14 +65,16 @@ We have identified many issues with the PeerWise app. However, we have selected 
 3. Peerwise doesn't follow very many of design rules.  It is hard to use, not very aesthetic and therefore off-putting.
 
 <br>
-In order to solve the issues that we have listed above we have decided that we need to create a modernised interface and design. We will be following the Google Design standards, as this is a widely used standard and is a familiar aesthetic to people today. 
+In order to solve the issues that we have listed above we have decided that we need to create a modernised interface and design. We will be following the material design standards, which was created by Google. This is as it is a widely used standard, and is a familiar aesthetic to people today. Therefore we can trust that by following the standard, we will be able to achieve a website that people will like (aesthetically speaking). 
 <br>
+
 By having this improvement, it will make it easier for students to use PeerWise and they will be more incentivised to continue using it in the future. They will also be more likely to recommend it to family and friends. This will lead to a larger user-base that has more returning users (users that revisit PeerWise). It will also help with the key business objectives of PeerWise (listed below):
 - Instructors can facilitate collaborative student learning through course creation and activation
 - Students can have a deeper understanding of topics by explaining and discussing questions and their answers
 - PeerWise has an easy-to-use, convenient and modernised interface and has an aesthetically pleasing design
 
 ### Stakeholder Information
+Below we have listed the possible stakeholders along with the 
 Identified stakeholders:
 - Lecturers	    High power/High interest
 - Students      High power/High interest
