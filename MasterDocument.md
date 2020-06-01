@@ -243,10 +243,13 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 The merging of designs was actually quite a (comparatively) smooth transition. This was likely due to the way we had approached this situation. 
 
 Steps:
-| header | header | header |
+
+| Step and Title | Description of what we did | Reflection |
 | ------ | ------ | ------ |
+| 1. Review our own, and other's designs | The first that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design.  | cell |
 | cell | cell | cell |
-| cell | cell | cell |
+
+
 
 ### Best and Worst parts of Prototype
 
