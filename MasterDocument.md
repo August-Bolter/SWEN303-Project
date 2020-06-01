@@ -234,7 +234,11 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 ## Part 4: Design ideation
 
+[Ahad and George]()
 
+[Justina and Daniel]()
+
+[August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
 
 ## Part 5: Design review
 
