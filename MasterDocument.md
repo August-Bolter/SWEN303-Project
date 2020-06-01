@@ -215,7 +215,11 @@ How I calculated the rankings can be seen below.
 
 ## Part 4: Design ideation
 
+[Ahad and George]()
 
+[Justina and Daniel]()
+
+[August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
 
 ## Part 5: Design review
 
