@@ -56,7 +56,6 @@ These services also follow a minimalist design, reducing the amount of text show
 #### Business Objectives
 Peerwise is a tool instructors (secondary school teachers or university course coordinators) use to set up courses which students can join. Students can then create questions which other students can answer. Additionally, students can rate questions once they have answered them and can filter questions by their topic. They can also start quizzes which are an assortment of questions they have already answered. All these features contribute to Peerwise’s purpose which is to encourage student collaborative learning to ensure that the students have a deeper understanding of the course material
 
-<br>
 We have identified many issues with the Peerwise app. However, the most pressing concern is: 
 <br>
 - Peerwise has an outdated and inconvenient interface. It is not user-centric for the modern day student. Peerwise currently doesn’t follow very many design rules - in particular, material design by Google. The way that Peerwise has been designed is hard to use, not very aesthetic and therefore off-putting.
