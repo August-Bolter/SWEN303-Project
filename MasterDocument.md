@@ -239,7 +239,8 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 
 ## Part 8: Group reflection
-
+### Merging the designs
+### Best and Worst parts of Prototype
 
 
 
