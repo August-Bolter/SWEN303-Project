@@ -1,6 +1,10 @@
 # SWEN303 Protect Part 1 - Prototype
 
-__Ahad Rahman (300433299)__ __George Dorrington (300429785)__ __Justina Koh (300441630)__ __Daniel Pullon (300357323)__ __August Bolter (*********)__
+__Ahad Rahman (300433299)__ 
+__George Dorrington (300429785)__ 
+__Justina Koh (300441630)__ 
+__Daniel Pullon (300357323)__ 
+__August Bolter (*********)__
 
 *Assignment Mark Weighting*
 * Design Evaluation = 0%
