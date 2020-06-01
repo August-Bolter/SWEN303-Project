@@ -261,6 +261,12 @@ Roleplaying as Liam shows the strength of our breadcrumb menu system. For Liam h
 <br>
 Roleplaying as the lecturer also showed how our design only shows you the information you need at one time. When enrolling students everything else goes dark and an overlay is displayed, for busy lecturers this is important as they need to spend the minimal time as possible due to their busy schedules.
 <br><br>
+Language
+<br>
+We use consistent language in the app to help the user learn faster. The buttons all use verbs, therefore they know that they will do something when pressed.
+We tried to keep the language as culturally neutral as possible using standard language in as many places as possible.
+We follow conventions where possible such as use the header bar to take you back to the home page / previous pages. We also use industry standard symbols and icons like arrows, toggles and a magnifying glass to do standard things like expand menus, switch windows and search. This helps new users learn quickly.
+<br><br>
 Control
 <br>
 Exits are clearly marked. Using industry standards and following Google's material design helps to create an easily understandable and clear app.
@@ -300,4 +306,7 @@ We currently have not implemented many confirmation messages. This is because we
 Status
 <br>
 The quiz pages can be quite long on mobile, when reading quizzes with many questions it may require a lot of scrolling, this was a design sacrifice we made because we wanted to keep the design language to be matching across the platforms. Due to the way we use white space it creates gaps that add to clarity but extend the size of pages. This is something we will revisted in testing.
-
+<br><br>
+Recognition vs Recall
+Accessibility, we have not implemented accessibility options such as colour mode, high contrast or enlarged text. This is due to time contraints and also a lack of the necessary information. To be done correctly, the people who will use these options should be consulted, this is important as other we would need to make assumptions for them which may make it less useful which is against our goal.
+<br>
