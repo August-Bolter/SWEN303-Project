@@ -113,7 +113,7 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 
 
-## Part 2: Personas // George
+## Part 2: Personas 
 
 ### Selected personas in order of priority (from most to least important):
 
