@@ -232,7 +232,12 @@ How I calculated the rankings can be seen below.
 
 ## Part 7: Video
 
+Screen recordings of our mobile and desktop designs which demonstrates the functionality:
 
+* [Staff desktop](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/videos/staff%20desktop.mov)
+* [Staff mobile](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/videos/staff%20mobile.mov)
+* [Student desktop](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/videos/student%20desktop.mov)
+* [Student mobile](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/videos/student%20mobile.mov)
 
 ## Part 8: Group reflection
 The merging of designs was actually quite a (comparatively) smooth transition. This was likely due to the way we had approached this situation. While we definitely carried out some 'mistakes’ in trying to merge our designs, it wasn’t anything too significant, and our team was still able to function quite efficiently regardless.
