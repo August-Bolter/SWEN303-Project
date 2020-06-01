@@ -158,7 +158,7 @@ This was followed by some constructive discussion about the number of personas t
 As the group progressed through the project, it was recognised that time was a restraint, and having a completed prototype for testing was identified was determined the priority. To mitigate the time constraint, the group decided it was unnecessary to standardise the look and feel of the personas, as the most important aspects were title and the content, and they could still be used effectively within the development stage of the prototype. There was a significant amount of commonality within the detail of the personas relating to attitude, aptitude, motivation and skills, which led to the group reaching agreement on the persona detail relatively quickly. 
 
 
-## Part 3: Scenarios // August
+## Part 3: Scenarios
 
 1. Create Course (Personas Involved: Sarah)
 
