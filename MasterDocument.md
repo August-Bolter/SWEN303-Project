@@ -221,9 +221,8 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 
 Justina and Daniel:
-
+<br>
 [Web](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Designs/SWEN303_Assignment_2_Justina_and_Daniel.xd)
-
 [Mobile](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Designs/swen303-A2-_Mobile_-_Justina_and_Daniel.xd)
 
 [August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
