@@ -115,14 +115,14 @@ Many students are afraid to ask the lecturer questions during and after lectures
 
 ## Part 2: Personas // George
 
-###Selected personas in order of priority (from most to least important):
+### Selected personas in order of priority (from most to least important):
 
 * Student Engaged - Sally 
 * Student Disengaged - Liam 
 * Lecturer - Sarah 
 * Tutor - Veronica 
 
-###Merging of personas background 
+### Merging of personas background 
 
 To begin each group shared their personas and the qualities associated with them. It was identified that each group had similar titles for their personas and these were:
 * Course Coordinator 
