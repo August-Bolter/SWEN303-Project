@@ -138,10 +138,9 @@ Many students are afraid to ask the lecturer questions during and after lectures
 ### Selected personas in order of priority (from most to least important):
 
 * [Student Engaged - Sally](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Engaged_Student.pdf)
-* [Student Disengaed - Liam](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Disengaged_Student.pdf)
-* [Lecturer - Daniel](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Lecturer.pdf)
-* [Tutor - Veronica](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/blob/master/Personas/Tutor.pdf)
-
+* Student Disengaged - Liam 
+* Lecturer - Daniel
+* Tutor - Veronica 
 
 ### Merging of personas background 
 To begin each group shared their personas and the qualities associated with them. It was identified that each group had similar titles for their personas and these were:
@@ -234,11 +233,7 @@ Modify Question/Quiz (August: (1 - (6/14)) (57.2%), Ahad and George (N/A), Justi
 
 ## Part 4: Design ideation
 
-[Ahad and George]()
 
-[Justina and Daniel]()
-
-[August](Designs/Assignment_2_Information_Hierarchy_Final.xd)
 
 ## Part 5: Design review
 
@@ -264,7 +259,7 @@ Steps:
 | ------ | ------ | ------ |
 | 1. Review our own and each other's designs | The first thing that we did was to review our own, and our teammates' designs. In this step, we gave each other access to our designs and (separately) wrote down the top three things that we thought were really good about the design, and three things that we thought weren't very good about the design.  | This was an incredibly good step to carry out. If we were to do this assignment again, we would most definitely start with this step. By carrying out this step, we were able to fully understand what each person liked and disliked about our designs, and therefore it was an incredibly good starting point to help us start planning what we wanted our combined design to look like.    |
 | 2. Give feedback and discuss the main points of design | In this step, we had a zoom call where we elaborated each point that we wrote down regarding what we liked and disliked about each other's design. This allowed us to clarify any misunderstandings that we had, and also allowed us to properly voice what we liked and what didn't like.  | This was also an incredibly important step in our process. By having this process, it allowed each other to discuss, question and understand why we made certain design choices, why we liked / didn't like certain aspects of each other's design etc.  In this step, it allowed us to understand each other a bit more, and fully appreciate why certain design choices were made. |
-| 3. Combine what we wanted / didn’t want in the app | This step was just an extension of the previous step. Here, we combined our thoughts, and tried to narrow down what we wanted in the app. | This step was actually much harder than we had originally thought, mostly due to the fact that each of us had already created a template app which was completely based on what we wanted so our thoughts were already quite solidly formed. However, just like the previous steps that we had, this step was incredibly important as it allowed us to all be aligned and be on the same page as each other. If this step hadn’t been carried out, it could have resulted in some big disagreements later on in this project (or in the next parts) as everyone would still be wanting different things. |
+| 3. Combine what we wanted / didn’t want in the app | This step was just an extension of the previous step. Here, we combined our thoughts, and tried to narrow down what we wanted in the app. | This step was actually much harder than we had originally thought, mostly due to the fact that each of us had already created a template app which was completely based on what we wanted so our thoughts were already quite solidly formed. Additionally, each of us had a sHowever, just like the previous steps that we had, this step was incredibly important as it allowed us to all be aligned and be on the same page as each other. If this step hadn’t been carried out, it could have resulted in some big disagreements later on in this project (or in the next parts) as everyone would still be wanting different things. |
 | 4. Start designing our app again| At this stage we started to design our app together. We started on a template, and started writing down the potential pages that we might have on the app. | This step was a bit of a mistake. Since we had just all agreed on what we wanted to do (in the previous step) we had gotten too carried away, and had just ploughed straight into redesigning our app. However, we hadn’t given any thought to the personas that we might use or the use cases that we might have. Therefore we had very little idea about what our _potential users_ would want. Our design was completely ‘designer focused’. (i.e. we had designed it for ourselves, and not for our users). 
 If we were to do the assignment again, we would not have carried out this step  / we would have carried out this step later on in the project, after we had made the use cases / personas.|
 | 5. Discuss our personas and use cases | Here, we discussed the potential personas and use cases. _Please read the  part 3: how we merged our use cases part for more detail_| This step was also incredibly important. In the previous step we hadn’t thought about / confirmed our use cases and personas, and therefore we started to lose track of what we wanted as a group, for our potential users. This step reconfirmed what we wanted, and helped us get back on track in starting to design a good app. This step was, and is, incredibly important in ensuring that the design choices that we make, are for the user, and not because we ‘feel-like’ putting something in. |
@@ -273,9 +268,6 @@ If we were to do the assignment again, we would not have carried out this step  
 In the end we ended up cutting some decisions that we had previously wanted to make on our design as it didn’t contribute anything for the user.  | This was a good step to have. Ideally, this step would have been earlier on, maybe about step 3 (after making personas and use cases).
 If this step, and step 6 were done earlier, it would mean that we would have had an easier time combining our thoughts together and deciding what design choices we wanted to do. This is because, after we carried out this step, we realised that many of the original choices that we had made in step 2 were now redundant as those choices were made for us, and provided nothing additional for the user. |
 |7. Started the template again | Here we started the design template again. From here on, it was rather smooth running.|
-
-
-One piece of design that we didn’t include was the logo. We all agreed that although we needed a logo, with the time frame that we were given, there wasn’t enough time to create a good logo using a good design development process in addition to everything else we needed to do for the project. We realised that the logo was an incredibly important part of the design process, and as it represents the app and is one of the key identifying features that people will use to identify the app by, it would be a rash decision to not properly develop the logo. If we were to do this part of the project again (and were given more time), we definitely would have created and developed a logo during this first part of the project. 
 
 
 
@@ -317,7 +309,16 @@ The breadcrumb system as previously discussed helps with this. The app has a low
 Shortcuts
 <br>
 We don't implement specific macros that complete many tasks at once. This is a design choice as we felt it was more important to lower the barrier to entry for people who first view the site then it was to develop complicated shortcuts for heavy users. We feel that heavy users will not be too strongly impacted as there are a limited number of clicks to move through the website.
-
-
-
+<br><br>
+Consistency
+<br>
+We have issues with consistency between sidebars. After doing testing with users we will be better able to understand what people expect in the sidebars. This is especially apparent in the mobile app.
+<br><br>
+Error Recovery
+<br>
+We currently have not implemented many confirmation messages. This is because we still lack user testing and so we hope that our design language will provide the clarity required for people to know that when they press a button it will have an effect.
+<br><br>
+Status
+<br>
+The quiz pages can be quite long on mobile, when reading quizzes with many questions it may require a lot of scrolling, this was a design sacrifice we made because we wanted to keep the design language to be matching across the platforms. Due to the way we use white space it creates gaps that add to clarity but extend the size of pages. This is something we will revisted in testing.
 
