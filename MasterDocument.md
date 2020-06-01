@@ -69,6 +69,19 @@ By having this improvement, it will make it easier for students to use Peerwise 
 - Students can have a deeper understanding of topics by explaining and discussing questions and their answers
 - Peerwise has an easy-to-use, convenient and modernised interface and has an aesthetically pleasing design
 
+As mentioned above, we have identified three major issues with the current learning management systems. We believe that our app will address these issues and therefore it will make learning at university an incredibly fun, interesting and exciting experience. Which is why our app is so valuable. 
+<br>
+As students of the 21st century, we are becoming an increasingly diverse range of people. We now understand that there are an incredibly wide range of people, all with different learning abilities, and recognise that education should be accessible for everyone. The main issue with the current education system is that the way it is designed, it is only suited for a very specific, and minority group of people’s learning styles. Our learning system is designed to help students who may have different learning types to the one that we are used to teaching in schools. Our new, updated learning management system has been designed to help the course content be more accessible and understandable for the students. Therefore, it is obvious that our system’s main objectives is to create: 
+<br>
+1. An easily navigable system that is intuitive to use
+2. The app is designed to be student self-generated. This means that all, or if not most of the content on the website would be made by the students. 
+3. As a result, this app should support students to help pass their exams, and understand the course content better
+ 
+Justification for the main core functions:<br>
+Our learning management system is supposed to be designed in such a way that is easy and accessible for everyone. While it is easy to assume that the large majority of students are used to technology and the basic, common layout for most apps, it is also important there are also a number of postgraduate, mature students as well as lecturers who may not necessarily be used to technology. Therefore it should be intuitive to use, even for people who aren’t used to technology. 
+
+By having the students create the content for each other (or themselves) it allows them to develop a deeper understanding of what’s going on in the course. Many issues that people often have with lecturers is that the lecturers are highly trained in their course and therefore sometimes forget that the students aren’t as well versed in the subject as they are. By having students create content for students, they are more likely to create the content and write in such a manner that the other students will understand as well. 
+
 ### Stakeholder Information
 Below we have listed the possible stakeholders along with the power and interests that they hold in the app. We have defined that those with;
 - high power: _a person or entity who we want to satisfy with our app functions etc._
@@ -108,19 +121,6 @@ Peerwise is important as it gives students another way to learn course material.
 Peerwise also helps teachers because it ensures that students aren’t relying solo on the teachers perspective of the topic. Having only one perspective of the topic can potentially create biases and can limit how well students can comprehend the material. This in turn may affect the students grades therefore it should be avoided. <br>
 This also alleviates some of the teachers and professors workload by getting the students to help each other on topics that they are confused about, and the teacher won’t need to spend their time helping each troubled student individually. This means that teachers will be able to teach more topics to the students and/or dive deeper into the topics they are already teaching. <br>
 
-### Business Objectives:
-As mentioned above, we have identified three major issues with the current learning management systems. We believe that our app will address these issues and therefore it will make learning at university an incredibly fun, interesting and exciting experience. Which is why our app is so valuable. 
-<br>
-As students of the 21st century, we are becoming an increasingly diverse range of people. We now understand that there are an incredibly wide range of people, all with different learning abilities, and recognise that education should be accessible for everyone. The main issue with the current education system is that the way it is designed, it is only suited for a very specific, and minority group of people’s learning styles. Our learning system is designed to help students who may have different learning types to the one that we are used to teaching in schools. Our new, updated learning management system has been designed to help the course content be more accessible and understandable for the students. Therefore, it is obvious that our system’s main objectives is to create: 
-<br>
-1. An easily navigable system that is intuitive to use
-2. The app is designed to be student self-generated. This means that all, or if not most of the content on the website would be made by the students. 
-3. As a result, this app should support students to help pass their exams, and understand the course content better
- 
-Justification for the main core functions:<br>
-Our learning management system is supposed to be designed in such a way that is easy and accessible for everyone. While it is easy to assume that the large majority of students are used to technology and the basic, common layout for most apps, it is also important there are also a number of postgraduate, mature students as well as lecturers who may not necessarily be used to technology. Therefore it should be intuitive to use, even for people who aren’t used to technology. 
-
-By having the students create the content for each other (or themselves) it allows them to develop a deeper understanding of what’s going on in the course. Many issues that people often have with lecturers is that the lecturers are highly trained in their course and therefore sometimes forget that the students aren’t as well versed in the subject as they are. By having students create content for students, they are more likely to create the content and write in such a manner that the other students will understand as well. 
 
 ## Part 2: Personas
 
