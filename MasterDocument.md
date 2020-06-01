@@ -246,7 +246,7 @@ Steps:
 
 | Step and Title | Description of what we did | Reflection |
 | ------ | ------ | ------ |
-| 1. Review our own, and other's designs | The first that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design.  | cell |
+| 1. Review our own, and other's designs | The first that we did was to review our own, and other our teammates's designs. In this step, we went gave each other access to our designs and separately wrote down the top three things that we thought were really good about the design, and three things that we thought wasn't very good about the design.  | This was an incredibly good step to carry out. If we were to do this assignment again, we would most definitely start with this step. By carrying out this step, we were able to fully understand what each person liked and disliked about our designs, and therefore it was an incredibly good starting point to help us start planning what we wanted our combined design to look like.    |
 | cell | cell | cell |
 
 
