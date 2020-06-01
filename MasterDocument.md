@@ -215,7 +215,7 @@ How I calculated the rankings can be seen below.
 
 ## Part 4: Design ideation
 
-[Ahad and George]()
+[Ahad and George](Designs/Final-Peerwise-Designs.xd)
 
 [Justina and Daniel]()
 
