@@ -18,15 +18,10 @@ __August Bolter (*********)__
 * Reflection = 0%
 
 ## Part 1: Background
-#### Task:
-
-Background to the project. This should be very similar/identical to at least one of the previous projects background. It could be updated if you want but does not need to be.
 
 - more student focussed because 
 
-### Actual content:
-
-Existing Solution
+### Existing Solution
 Peerwise is an online learning tool created by Auckland University. It is used in addition to classes and tutorials to help further a student’s understanding of specific course content with minimal lecturer input. 
 <br>
 
@@ -36,15 +31,15 @@ At the start of the college term or university trimester, an empty repository is
 While Peerwise has received a lot of positive user feedback, specifically relating to the opportunity to interact and engage with course material. The users also describe the _UI_ as underwhelming, boring and 'discouraging' due to the lacklustre appearance. Many students have stated how this unintuitive UI, has caused them to be less interested in using the app, and/has stopped them from using the app altogether.
 <br>
 
-Below, we have identified and listed the three main objectives of Peerise:
+Below, we have identified and listed the three main objectives of Peerwise:
 1. Enable students to clarify their understanding and support their learning of each course / paper
 2. Engage students with course content during trimesters
 3. Allow students to learn by independently
 
 However, keeping in mind the objectives listed above, there are also issues which we have found with the Peerwise application. The top three issues have been listed below: 
-1. The app is boring and outdated - the 'vibe' that it maintains is incredibly off-putting
-2. The app is unituitive and can be hard / finicky to use
-3.
+1. The app is / looks outdated
+2. The app is unintuitive and can be hard / finicky to use
+3. The app is incredibly boring - it is incredibly off-putting to potential users
 
 The combination of the top three issues we have listed with the project is incredibly problematic. This is due to the fact that this combination causes the app to be unusable / the user to not want to use it, and that defeats the very purpose of the app in the first place. 
 __________________________________________________________________________________________________________
