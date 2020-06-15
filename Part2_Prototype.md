@@ -711,6 +711,12 @@ __Daniel's testing on Logan__
 | View course info for COMP313 | Yes                         | Yes                             | 40 seconds                                   | 0                                                               | No                                                                                                         | No                                                 | N/A                                        | No                                           |  2                                 |  No                                                     |
 
 
+**NOTE**
+
+Please see our GitLab repository, under Boards > UI Testing Issues for a full list of the issues identified from user testing. Clicking on an issue provides more information.
+
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/boards/1897?milestone_title=UI%20Testing%20Issues&
+
 ## Part 8: Usability Test Discussion
 
 __What was the most interesting thing found from testing__
