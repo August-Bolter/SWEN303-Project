@@ -11,10 +11,9 @@ __Daniel Pullon (300357323)__
 __August Bolter (300456915)__
 
 *Assignment Mark Weighting*
-* Design Evaluation = 30%
-* Prototype = 40%
-* Video = 15%
-* Reflection = 15%
+* Usability Test Plan = 50%
+* Test Results = 30%
+* Discussion = 20%
 
 ## Part 1: Background
 ### Existing Solution
@@ -595,6 +594,14 @@ __Failures found through the testing__
 
 
 ### Problem Severity:
+
+We don’t believe there are major problems with the design. Most problems encountered were due to time constraints and limitations in Adobe XD.
+
+1. Some staff pages used the same pages as the student pages in order to save time. There is potential for the tester to think they are on the student side of Peerwise but they are actually on the staff side of the website.
+
+2. We had trouble implementing the hover features we wanted in Adobe XD, such as underlining text, or adding extra shadows when a component was hovered on.
+
+3. The animations and transitions between each page were not necessarily accurate, as the options in Adobe XD were limiting.
 
 
 ## Part 7: Usability Test Results
