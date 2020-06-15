@@ -748,5 +748,23 @@ The most significant result we discovered from user testing is that we have a la
 
 1. Loading / progress bars
 
-Progress bars inform the users how close they are to completing a set of tasks. This can be done through the use of percentages or a loading ‘circle’ as seen above 
+Progress bars inform the users how close they are to completing a set of tasks. This can be done through the use of percentages or a loading ‘circle’ as seen below.
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/raw/master/Resources/loading.png">
+
+2. Snack bars
+
+Snackbars inform the user of a process that has been performed, will perform or why it wont perform. They appear temporarily, often at the top or bottom of the screen and should not impair the overall user experience.
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/raw/master/Resources/snackbar.png">
+
+3. Popup information boxes
+
+A popup information box requires the user to interact with it and is designed to receive a specific response from the users. The box often contains important information where users need to make decisions.
+
+The aforementioned components help to inform the user on the task that is currently being performed or the restrictions on why it cannot be performed. Implementing some of these components into the Peerwise website should help to reduce confusion and increase satisfaction.
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/raw/master/Resources/snackbar.png">
+
+
 
