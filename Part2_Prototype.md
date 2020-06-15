@@ -769,9 +769,10 @@ Snackbars inform the user of a process that has been performed, will perform or 
 
 A popup information box requires the user to interact with it and is designed to receive a specific response from the users. The box often contains important information where users need to make decisions.
 
-The aforementioned components help to inform the user on the task that is currently being performed or the restrictions on why it cannot be performed. Implementing some of these components into the Peerwise website should help to reduce confusion and increase satisfaction.
-
 <img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t16/swen303-project/-/raw/master/Resources/popup.png">
+
+
+The aforementioned components help to inform the user on the task that is currently being performed or the restrictions on why it cannot be performed. Implementing some of these components into the Peerwise website should help to reduce confusion and increase satisfaction.
 
 
 
